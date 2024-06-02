@@ -58,4 +58,4 @@ I'm Anbuchelvan I'm a third year student pursuing Bachelors's in Computer Scienc
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anbuchelvan24&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-<em><b>I love connecting with different people from around the world <a href="https://linktr.ee/anbuchelvan"> Feel free to reach out</a>🏃‍♂️</b></em>
+<em><b>I love connecting with people around the world <a href="https://linktr.ee/anbuchelvan"> Feel free to reach out</a>🏃‍♂️</b></em>
