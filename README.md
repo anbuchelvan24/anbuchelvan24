@@ -17,9 +17,7 @@ I'm Anbuchelvan I'm a third year student pursuing Bachelors's in Computer Scienc
 
 - 🌱 I’m currently learning Full stack development and UI design.
 
-- 💬 Ask me about anything **[Anbuchelvan](https://linktr.ee/anbuchelvan)** ! I am happy to help.
-
-- 📫 How to reach me **[Anbuchelvan](https://linktr.ee/anbuchelvan)**
+- 💬 **[Ask me anything](https://linktr.ee/anbuchelvan)** ! I am happy to help.
 
 <!-- Connect with me -->
 <h3 align="left">Connect with me:</h3>
