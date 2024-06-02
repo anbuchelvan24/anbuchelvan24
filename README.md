@@ -41,11 +41,6 @@ I'm Anbuchelvan I'm a third year student pursuing Bachelors's in Computer Scienc
 ![Git](https://img.shields.io/badge/git-vc?style=for-the-badge&logo=git&logoColor=%23F05032&labelColor=black&color=black)
 
 
-# Github Stats
-
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=anbuchelvan24&show_icons=true&theme=dark)
-
-
 <br />
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
