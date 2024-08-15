@@ -1,4 +1,4 @@
-![Banner](https://github.com/anbuchelvan24/anbuchelvan24/blob/main/assets/GithubBanner.jpg)
+![Banner](https://github.com/anbuchelvan24/anbuchelvan24/blob/main/assets/Github%20Banner.jpg)
 
 <!-- welcome message -->
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
